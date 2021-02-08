@@ -1,1 +1,1 @@
-module.exports = () => console.log('Module A: V1')
+module.exports = () => console.log('Module A: V1.1.0')
